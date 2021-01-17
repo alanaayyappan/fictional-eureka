@@ -2,9 +2,9 @@
 
 ### The Problem
 
-Challenge is to create a jokes app with dark mode. Use the Chuck Norris jokes API [api.chucknorris.io](api.chucknorris.io)  to generate random Jokes. A new request fetches **ten** new Jokes. It should be appended to the old ones and displayed on the screen.
+Challenge is to create a jokes app with dark mode. Use the Chuck Norris jokes API [api.chucknorris.io](https://api.chucknorris.io)  to generate random Jokes. A new request fetches **ten** new Jokes. It should be appended to the old ones and displayed on the screen.
 
-You can use [fetch api](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch) or [axios](https://www.npmjs.com/package/axios) with react or javascript to make API calls. Sending a GET request to  [api.chucknorris.io/jokes/random](api.chucknorris.io/jokes/random) generates a random joke.
+You can use [fetch api](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch) or [axios](https://www.npmjs.com/package/axios) with react or javascript to make API calls. Sending a GET request to  [api.chucknorris.io/jokes/random](https://api.chucknorris.io/jokes/random) generates a random joke.
 
 A dark mode toggler button should change the theme of the app. The dark theme changes the background color to black, and the text changes to white (or any other color of choice).
 
